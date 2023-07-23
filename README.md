@@ -12,10 +12,15 @@ Part II. Testing us
 1. Clone project locally
 
     ```shell
-    $ git clone git@github.com:Aikisz/ui-tests.git
+    $ git clone https://github.com/Aikisz/ui-tests.git
     ```
-
-2. Runing the tests <br>
+   
+2. Run the following command:
+   ```shell
+    $ yarn install
+    ```
+  
+3. Running the tests <br>
 
     In the command line:
 
